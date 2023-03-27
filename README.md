@@ -17,15 +17,15 @@
     
   - Front-End Development  
     
-  <p align="left"> <img height="25" src="https://img.shields.io/badge/-REACT-blue"> <p align="left"> <img height="25" src="https://img.shields.io/badge/-JAVASCRIPT-yellow"> <p align="left"> <img height="25" src="https://img.shields.io/badge/-MUI-red"> <p align="left"> <img height="25" src="https://img.shields.io/badge/-BOOTSTRAP-blueviolet"> <p align="left"> <img height="25" src="https://img.shields.io/badge/-SASS-ff69b4"> <p align="left"> <img height="25" src="https://img.shields.io/badge/-CSS-informatianal"> <p align="left"> <img height="25" src="https://img.shields.io/badge/-HTML-orange">
+  <p align="left"> <img height="25" src="https://img.shields.io/badge/-REACT-blue">  <img height="25" src="https://img.shields.io/badge/-JAVASCRIPT-yellow">  <img height="25" src="https://img.shields.io/badge/-MUI-red"> <img height="25" src="https://img.shields.io/badge/-BOOTSTRAP-blueviolet"> <img height="25" src="https://img.shields.io/badge/-SASS-ff69b4"> <img height="25" src="https://img.shields.io/badge/-CSS-informatianal"> <img height="25" src="https://img.shields.io/badge/-HTML-orange">
     
   - Back-End Development
     
-<p align="left"> <img height="25" src="https://img.shields.io/badge/-MONGO%20DB-brightgreen"> <p align="left"> <img height="25" src="https://img.shields.io/badge/-EXPRESS-black">  <p align="left"> <img height="25" src="https://img.shields.io/badge/-NODE.JS-green">  
+<p align="left"> <img height="25" src="https://img.shields.io/badge/-MONGO%20DB-brightgreen">  <img height="25" src="https://img.shields.io/badge/-EXPRESS-black">   <img height="25" src="https://img.shields.io/badge/-NODE.JS-green">  
   
  - Software and Tools
 
-  <p align="left"> <img height="25" src="https://img.shields.io/badge/-GIT-orange"> <p align="left"> <img height="25" src="https://img.shields.io/badge/-GITHUB-black"> <p align="left"> <img height="25" src="https://img.shields.io/badge/-VS CODE-blue">
+  <p align="left"> <img height="25" src="https://img.shields.io/badge/-GIT-orange">  <img height="25" src="https://img.shields.io/badge/-GITHUB-black">  <img height="25" src="https://img.shields.io/badge/-VS CODE-blue">
   
  
 
