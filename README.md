@@ -4,8 +4,9 @@
 <h1 align = "center">I'M MEHMET TOKGOZ
 </h1>
 
+## About
 <p align="left"> <img height="30" src="https://img.shields.io/badge/-RESPECTFUL-red"> <img height="30" src="https://img.shields.io/badge/-HONEST-red"> <img height="30" src="https://img.shields.io/badge/-FAIR-red">  <img height="30" src="https://img.shields.io/badge/-HELPFUL-red"> <img height="30" src="https://img.shields.io/badge/-HARDWORKING-red">
-  
+ 
   - A full-stack web developer with the above values
   - Always keen to learn and teach new things
   - A person who is open to innovations, compatible, and learns from his own mistakes
