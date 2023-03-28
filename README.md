@@ -23,6 +23,7 @@
   - Back-End Development
     
 <p align="left"> <img height="25" src="https://img.shields.io/badge/-MONGO%20DB-brightgreen">  <img height="25" src="https://img.shields.io/badge/-EXPRESS-black">   <img height="25" src="https://img.shields.io/badge/-NODE.JS-green">  
+ 
   
  - Software and Tools
 
@@ -32,6 +33,7 @@
 ## Connection
 
 [ <img height="25" src= "https://user-images.githubusercontent.com/108399783/227911010-b25e3ec8-e849-41c9-9cc0-15a474cf76cc.svg">](https://www.linkedin.com/in/mehmet-tokg%C3%B6z-a2a11519a/)
+
 
  
 
