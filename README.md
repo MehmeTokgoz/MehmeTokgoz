@@ -18,10 +18,12 @@
 
 **Skills**  
   - Languages  
+  
     ![python](https://user-images.githubusercontent.com/108399783/228470607-64a8a19e-2ec4-4455-8374-04aec1880ae7.png)
 
   - Front-End Development  
-  ![JavaScript_Logo](https://user-images.githubusercontent.com/108399783/228473635-30d8c124-160c-408b-a842-730899f94528.png)
+  
+    ![JavaScript_Logo](https://user-images.githubusercontent.com/108399783/228473635-30d8c124-160c-408b-a842-730899f94528.png)
 ![React_logo](https://user-images.githubusercontent.com/108399783/228470694-6ce618d7-191d-4eb4-bded-6d7988dc6391.png)
 ![jQuery_logo](https://user-images.githubusercontent.com/108399783/228470860-09c431d6-b148-4e18-8240-b6a7b44cac13.png)
 ![HTML5_badge](https://user-images.githubusercontent.com/108399783/228470808-816fd90b-7612-4a43-a596-a3883d5d48fa.png)
