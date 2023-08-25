@@ -1,3 +1,10 @@
+<p align="center"> 
+  <img width = "320" height= "100" src="https://user-images.githubusercontent.com/108399783/227622767-1ea02ce9-d0bb-4b88-921e-19c9fc7abcd0.gif"/></p>
+  
+<h1 align = "center">I'M MEHMET TOKGOZ
+</h1>
+
+
 # 💫 About Me:
 RESPECTFUL, HONEST, FAIR, HELPFUL, HARDWORKING<br><br>A full-stack web developer with the above values<br><br>Always keen to learn and teach new things<br><br>A person who is open to innovations, compatible, and learns from his own mistakes<br><br>An individual with self-awareness
 
