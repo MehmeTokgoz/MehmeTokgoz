@@ -6,7 +6,7 @@
 
 
 # 💫 About Me:
-RESPECTFUL, HONEST, FAIR, HELPFUL, HARDWORKING<br><br>A full-stack web developer with the above values<br><br>Always keen to learn and teach new things<br><br>A person who is open to innovations, compatible, and learns from his own mistakes<br><br>An individual with self-awareness
+<p align="left"> <img height="20" src="https://img.shields.io/badge/-RESPECTFUL-green"> <img height="20" src="https://img.shields.io/badge/-HONEST-red"> <img height="20" src="https://img.shields.io/badge/-FAIR-blue">  <img height="20" src="https://img.shields.io/badge/-HELPFUL-pink"> <img height="20" src="https://img.shields.io/badge/-HARDWORKING-grey"><br><br>A full-stack web developer with the above values<br><br>Always keen to learn and teach new things<br><br>A person who is open to innovations, compatible, and learns from his own mistakes<br><br>An individual with self-awareness
 
 
 ## 🌐 Socials:
