@@ -1,53 +1,21 @@
-<p align="center"> 
-  <img width = "320" height= "100" src="https://user-images.githubusercontent.com/108399783/227622767-1ea02ce9-d0bb-4b88-921e-19c9fc7abcd0.gif"/></p>
-  
-<h1 align = "center">I'M MEHMET TOKGOZ
-</h1>  
-
-**About**
-
-<p align="left"> <img height="20" src="https://img.shields.io/badge/-RESPECTFUL-green"> <img height="20" src="https://img.shields.io/badge/-HONEST-red"> <img height="20" src="https://img.shields.io/badge/-FAIR-blue">  <img height="20" src="https://img.shields.io/badge/-HELPFUL-pink"> <img height="20" src="https://img.shields.io/badge/-HARDWORKING-grey">  
-  
-   - A full-stack web developer with the above values  
-  
-   - Always keen to learn and teach new things  
-  
-   - A person who is open to innovations, compatible, and learns from his own mistakes  
-  
+# 💫 About Me:
+RESPECTFUL, HONEST, FAIR, HELPFUL, HARDWORKING<br><br>A full-stack web developer with the above values<br><br>Always keen to learn and teach new things<br><br>A person who is open to innovations, compatible, and learns from his own mistakes<br><br>An individual with self-awareness
 
 
-**Skills**  
-  - Languages  
-  
-    ![python](https://user-images.githubusercontent.com/108399783/228470607-64a8a19e-2ec4-4455-8374-04aec1880ae7.png)
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mehmet-tokgöz-a2a11519a/) 
 
-  - Front-End Development  
-  
-    ![JavaScript_Logo](https://user-images.githubusercontent.com/108399783/228473635-30d8c124-160c-408b-a842-730899f94528.png)
-![React_logo](https://user-images.githubusercontent.com/108399783/228470694-6ce618d7-191d-4eb4-bded-6d7988dc6391.png)
-![jQuery_logo](https://user-images.githubusercontent.com/108399783/228470860-09c431d6-b148-4e18-8240-b6a7b44cac13.png)
-![HTML5_badge](https://user-images.githubusercontent.com/108399783/228470808-816fd90b-7612-4a43-a596-a3883d5d48fa.png)
-![Css logo-css-3-2048](https://user-images.githubusercontent.com/108399783/228470773-6a0d5294-acff-4eea-a94b-f1f1b27f55c9.png)
-![Sass_logo](https://user-images.githubusercontent.com/108399783/228470970-30756437-e172-4f22-9274-0454af0a4202.png)
-![MUI](https://user-images.githubusercontent.com/108399783/228470929-9de441ed-f890-4b19-bb00-2347ccf0cc39.png)
-![Bootstrap](https://user-images.githubusercontent.com/108399783/228471826-e2e31b94-7498-42c0-a081-18a52911f2d0.png)
+# 💻 Tech Stack:
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white) ![MUI](https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=material-ui&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) 	![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=MehmeTokgoz&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=MehmeTokgoz&theme=radical&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=MehmeTokgoz&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-- Back-End Development  
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=MehmeTokgoz&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-  ![Node_logo_NodeJS](https://user-images.githubusercontent.com/108399783/228471088-a05cddc6-7dcc-4727-a976-317d89cfdf09.png)
-![express-facebook-share](https://user-images.githubusercontent.com/108399783/228471136-108956ed-2704-491f-bd67-655e016fc0b7.png)
-![mongodb-3521676-2945120](https://user-images.githubusercontent.com/108399783/228471203-38c7d324-4cb8-4eab-ad84-ca0a16792332.png)
-- Software and Tools    
+---
+[![](https://visitcount.itsvg.in/api?id=MehmeTokgoz&icon=5&color=8)](https://visitcount.itsvg.in)
 
-  ![Git-Icon-1788C](https://user-images.githubusercontent.com/108399783/228471344-280b4a2d-6609-437a-ba13-2c0ac882a0a7.png)
-![GitHub Yeni](https://user-images.githubusercontent.com/108399783/228471366-0c2dbd1f-7ce5-450f-ac74-edfea1ac0f5a.png)
-![Figma](https://user-images.githubusercontent.com/108399783/228471398-4acc9807-bf1d-4821-a32c-f3f19f548f3e.png)
-![vscode](https://user-images.githubusercontent.com/108399783/228472553-54fddc4c-bfb2-45f5-9599-bb70e2ab3e56.png)
-  
-**Connection**  
-   
-  [ <img height="50" src= "https://user-images.githubusercontent.com/108399783/228474455-6dc134db-dd1a-4747-b72c-27198b26e204.png">](https://www.linkedin.com/in/mehmet-tokg%C3%B6z-a2a11519a/)
-
-
- 
-
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
