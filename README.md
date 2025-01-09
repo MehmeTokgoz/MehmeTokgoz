@@ -33,10 +33,7 @@
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)
 
 # 📊 GitHub Stats:
-
-![](https://github-readme-streak-stats.herokuapp.com/?user=MehmeTokgoz&theme=radical&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api?username=MehmeTokgoz&theme=radical&hide_border=false&include_all_commits=false&count_private=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=MehmeTokgoz&theme=radical&hide_border=false&include_all_commits=false&count_private=true&layout=compact)<br/>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MehmeTokgoz&theme=default&show_icons=true&hide_border=true&count_private=true)
 
 
 
